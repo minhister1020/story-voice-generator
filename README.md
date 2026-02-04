@@ -6,7 +6,7 @@ AI text-to-speech app powered by ElevenLabs. Transform your stories into natural
 
 1. **Clone and install:**
    ```bash
-   git clone https://github.com/minhbui26/story-voice-generator.git
+   git clone https://github.com/minhister1020/story-voice-generator.git
    cd story-voice-generator
    npm install
    ```
@@ -30,7 +30,7 @@ AI text-to-speech app powered by ElevenLabs. Transform your stories into natural
 3. Add `ELEVENLABS_API_KEY` environment variable
 4. Deploy
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/minhbui26/story-voice-generator&env=ELEVENLABS_API_KEY)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/minhister1020/story-voice-generator&env=ELEVENLABS_API_KEY)
 
 ## Tech Stack
 
@@ -41,7 +41,7 @@ AI text-to-speech app powered by ElevenLabs. Transform your stories into natural
 
 ## Author
 
-**Minh Bui** - [LinkedIn](https://linkedin.com/in/minhbui26) · [GitHub](https://github.com/minhbui26)
+**Minh Bui** - [GitHub](https://github.com/minhister1020)
 
 ## License
 

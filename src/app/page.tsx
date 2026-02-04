@@ -104,7 +104,7 @@ export default function Home() {
             Story Voice Generator
           </span>
           <a
-            href="https://github.com/minhbui26/story-voice-generator"
+            href="https://github.com/minhister1020/story-voice-generator"
             target="_blank"
             rel="noopener noreferrer"
             className="text-slate-400 hover:text-slate-100 transition-colors"
@@ -174,7 +174,7 @@ export default function Home() {
         <div className="max-w-2xl mx-auto px-4 py-6 text-center text-sm text-slate-400">
           Built by{" "}
           <a
-            href="https://linkedin.com/in/minhbui26"
+            href="https://github.com/minhister1020"
             target="_blank"
             rel="noopener noreferrer"
             className="text-indigo-400 hover:text-indigo-300 transition-colors"
